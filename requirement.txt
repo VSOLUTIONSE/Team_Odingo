@@ -1,0 +1,3 @@
+duckduckgo-search
+crewai
+langchain_google_genai
